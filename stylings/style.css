@@ -1,0 +1,81 @@
+nav {
+	background-color: #77dcff;
+    height: 50px;
+    width: 100%;
+    top: 0;
+    left: 0px;
+    padding: 20px;
+    color: purple;
+    position: fixed;
+    text-align: center;
+}
+
+#homeButton {
+	border: none;
+	background-color: #33ccff;
+	color: white;
+
+	padding: 15px;
+    text-align: center;
+    font-size: 32px;
+    width: 20%;
+
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#searchText {
+    background-color: #33ccff;
+    height: 50px;
+    width: 20%;
+    top: 10px;
+    position: absolute;
+    left: 22%;
+}
+
+#searchButton {
+    background-color: #33ccff;
+    height: 50px;
+    width: 10%;
+    top: 10px;
+    color: white;
+    position: absolute;
+    left: 43%;
+    padding: 15px;
+}
+
+#profileButton {
+	border: none;
+	background-color: #33ccff;
+	color: white;
+	padding: 15px;
+    text-align: center;
+    font-size: 32px;
+    width: 20%;
+    position: absolute;
+    top: 10px;
+    right: 25%;
+}
+
+#settingsButton {
+	border: none;
+	background-color: #33ccff;
+	color: white;
+	padding: 15px;
+    text-align: center;
+    font-size: 32px;
+    width: 20%;
+    position: absolute;
+    right: 50px;
+    top: 10px;
+}
+
+#newPost {
+    width: 50%;
+    height: 20%;
+}
+
+#newPostButton {
+    width: 50%;
+}
